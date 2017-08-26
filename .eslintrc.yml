@@ -4,3 +4,8 @@ env:
 extends: 'eslint:recommended'
 rules:
   semi: error
+  no-console:
+    - error
+    - allow:
+        - 'warn'
+        - 'error'
