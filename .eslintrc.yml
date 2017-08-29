@@ -11,3 +11,6 @@ rules:
     - allow:
         - 'warn'
         - 'error'
+  no-empty:
+    - error
+    - allowEmptyCatch: true
