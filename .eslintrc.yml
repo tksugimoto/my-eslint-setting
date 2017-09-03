@@ -17,3 +17,6 @@ rules:
   comma-dangle:
     - error
     - always-multiline
+  object-shorthand:
+    - error
+    - always
