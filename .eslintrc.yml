@@ -20,3 +20,7 @@ rules:
   object-shorthand:
     - error
     - always
+  quotes:
+    - warn
+    - single
+    - avoidEscape: true
