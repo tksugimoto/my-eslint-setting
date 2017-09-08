@@ -25,3 +25,5 @@ rules:
     - warn
     - single
     - avoidEscape: true
+  no-shadow:
+    - error
