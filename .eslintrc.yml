@@ -27,3 +27,5 @@ rules:
     - avoidEscape: true
   no-shadow:
     - error
+  no-var:
+    - error
