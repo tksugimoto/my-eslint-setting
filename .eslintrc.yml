@@ -30,3 +30,5 @@ rules:
     - error
   no-var:
     - error
+  eol-last:
+    - error
