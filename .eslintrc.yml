@@ -32,3 +32,9 @@ rules:
     - error
   eol-last:
     - error
+  no-irregular-whitespace:
+    - error
+    - skipStrings: true
+      skipComments: false
+      skipRegExps: true
+      skipTemplates: true
