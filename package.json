@@ -5,6 +5,7 @@
     "eslint": "eslint"
   },
   "devDependencies": {
-    "eslint": "^4.5.0"
+    "eslint": "^4.5.0",
+    "eslint-plugin-jest": "^24.4.0"
   }
 }
