@@ -8,6 +8,7 @@ plugins:
   - html
 parserOptions:
   sourceType: module
+  ecmaVersion: 2020
 extends: 'eslint:recommended'
 globals:
   chrome: false
