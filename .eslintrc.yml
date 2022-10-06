@@ -5,6 +5,7 @@ env:
   jest/globals: true
 plugins:
   - jest
+  - html
 parserOptions:
   sourceType: module
 extends: 'eslint:recommended'
